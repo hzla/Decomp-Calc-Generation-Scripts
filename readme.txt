@@ -1,6 +1,7 @@
 Requirements:
 
 Install latest version of ruby
+run `gem install pry` 
 
 Put all files in this repo in a folder and place folder in the root pokeemerald-expansion directory 
 
